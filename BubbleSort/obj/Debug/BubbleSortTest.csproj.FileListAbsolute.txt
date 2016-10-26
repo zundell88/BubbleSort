@@ -1,0 +1,6 @@
+D:\Skolgrejer\Algoritmer & Datastrukturer\3. Search&Sort\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Skolgrejer\Algoritmer & Datastrukturer\3. Search&Sort\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Skolgrejer\Algoritmer & Datastrukturer\3. Search&Sort\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Skolgrejer\Algoritmer & Datastrukturer\3. Search&Sort\BubbleSort\BubbleSort\obj\Debug\BubbleSortTest.csprojResolveAssemblyReference.cache
+D:\Skolgrejer\Algoritmer & Datastrukturer\3. Search&Sort\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Skolgrejer\Algoritmer & Datastrukturer\3. Search&Sort\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
